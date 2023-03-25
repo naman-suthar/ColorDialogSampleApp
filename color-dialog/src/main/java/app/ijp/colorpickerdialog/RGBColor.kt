@@ -1,4 +1,4 @@
-package com.naman.color_dialog
+package app.ijp.colorpickerdialog
 
 import android.os.Bundle
 import android.view.LayoutInflater

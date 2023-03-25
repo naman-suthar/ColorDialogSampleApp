@@ -6,7 +6,7 @@
     tools:viewBindingIgnore="true"
     android:layout_height="wrap_content">
 
-    <com.naman.color_dialog.ColorPicker
+    <app.ijp.colorpickerdialog.ColorPicker
         android:id="@+id/colorPicker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />

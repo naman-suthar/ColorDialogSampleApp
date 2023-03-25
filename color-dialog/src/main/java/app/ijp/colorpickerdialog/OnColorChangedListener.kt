@@ -1,4 +1,4 @@
-package com.naman.color_dialog
+package app.ijp.colorpickerdialog
 
 interface OnColorChangedListener {
     fun colorChanged(color: Int)

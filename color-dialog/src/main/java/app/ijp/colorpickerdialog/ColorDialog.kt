@@ -1,4 +1,4 @@
-package com.naman.color_dialog
+package app.ijp.colorpickerdialog
 
 import android.app.Dialog
 import android.content.Context
@@ -16,6 +16,7 @@ import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayout.OnTabSelectedListener
+
 
 
 class ColorDialog : DialogFragment(),

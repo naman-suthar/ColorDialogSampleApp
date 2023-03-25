@@ -8,6 +8,7 @@ import androidx.core.view.WindowCompat
 import com.naman.color_dialog.ColorDialog
 import com.naman.color_dialog.OnColorChangedListener
 
+
 import com.naman.colordialogsampleapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

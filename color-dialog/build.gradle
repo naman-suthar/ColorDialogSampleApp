@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'com.naman.color_dialog'
+    namespace 'app.ijp.colorpickerdialog'
     compileSdk 33
 
     defaultConfig {

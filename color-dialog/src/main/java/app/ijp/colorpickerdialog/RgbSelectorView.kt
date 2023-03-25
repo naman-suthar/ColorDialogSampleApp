@@ -1,4 +1,4 @@
-package com.naman.color_dialog
+package app.ijp.colorpickerdialog
 
 import android.content.Context
 import android.graphics.Color
@@ -8,8 +8,6 @@ import android.view.View
 import android.widget.LinearLayout
 import android.widget.TextView
 import com.google.android.material.slider.Slider
-import com.naman.color_dialog.OnColorChangedListener
-
 class RgbSelectorView : LinearLayout {
     private var seekRed: Slider? = null
     private var seekGreen: Slider? = null

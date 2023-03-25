@@ -1,4 +1,4 @@
-package com.naman.color_dialog
+package app.ijp.colorpickerdialog
 
 import android.os.Bundle
 import android.util.Log
@@ -9,6 +9,7 @@ import android.view.ViewGroup
 import android.widget.LinearLayout
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+
 
 
 class HistoryTabFragment : Fragment() {

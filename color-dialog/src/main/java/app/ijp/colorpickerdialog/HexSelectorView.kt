@@ -1,4 +1,4 @@
-package com.naman.color_dialog
+package app.ijp.colorpickerdialog
 
 import android.content.Context
 import android.util.AttributeSet
@@ -9,6 +9,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.LinearLayout
 import android.widget.Toast
+
 
 class HexSelectorView : LinearLayout {
     private var edit: EditText? = null

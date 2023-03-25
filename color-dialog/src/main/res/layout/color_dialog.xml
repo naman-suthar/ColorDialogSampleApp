@@ -23,7 +23,7 @@
             android:elevation="5dp" />
 
 
-        <com.naman.color_dialog.StaticViewPager
+        <app.ijp.colorpickerdialog.StaticViewPager
             android:id="@+id/colorPager"
             android:layout_gravity="center"
             android:layout_width="match_parent"
