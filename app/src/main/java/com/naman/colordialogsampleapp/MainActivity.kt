@@ -5,8 +5,8 @@ import android.view.animation.RotateAnimation
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.WindowCompat
-import com.naman.color_dialog.ColorDialog
-import com.naman.color_dialog.OnColorChangedListener
+import app.ijp.colorpickerdialog.ColorDialog
+import app.ijp.colorpickerdialog.OnColorChangedListener
 
 
 import com.naman.colordialogsampleapp.databinding.ActivityMainBinding
